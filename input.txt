@@ -1,0 +1,13 @@
+{
+int a ;
+int b ;
+int z;
+float dumb;
+dumb= 10;
+a=1;
+b=20;
+b= dumb+a * b;
+if(dumb==dsfs){
+    int r;
+}
+}
